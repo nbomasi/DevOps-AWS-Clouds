@@ -8,4 +8,6 @@ This project was implemented in project 15 using aws console
 
 While from project 16 to 18 focuses on automation of same cloud infrastructure using TERRAFORM as iac automation tool.
 
-Project design
+Project design:
+
+![Project15-18-design](https://user-images.githubusercontent.com/65962095/216880885-3794abea-0f0d-45a1-b66a-07cc30a41ee5.png)
