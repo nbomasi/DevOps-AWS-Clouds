@@ -18,6 +18,14 @@ This part will introduce us to:
 
 To separate environments with significant configuration differences, use a directory structure. Use workspaces for environments that do not greatly deviate from each other, to avoid duplication of your configurations.
 
+## CONCEPT OF MODULE
+
+In this part of project, module was introduced, which allows us to break terraform job into smaller piece/module, for easy planning, applying and troubleshooting.
+In project18, project17 was broken into 6 modules except for the compute module that was not considered in project 17.
+
+Image of planned project 18
+
+
 
 **Resources:**
 Configuring backend files: https://angelo-malatacca83.medium.com/aws-terraform-s3-and-dynamodb-backend-3b28431a76c1
