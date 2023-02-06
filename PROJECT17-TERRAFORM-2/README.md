@@ -28,5 +28,8 @@ But we will be creating bulk of the resources in project 17 which are as follow:
 Note: All the data/bootstap (.sh) files were gotten from project 15 data files.
 
 Project plan image:
+
+![successful plan of project 17](https://user-images.githubusercontent.com/65962095/216881211-c7b7a4ed-ec79-4e83-b967-30604ffbd49d.png)
+
  
 Note: I decide not to apply in order to save cost.
